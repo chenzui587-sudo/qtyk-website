@@ -1,0 +1,12 @@
+# 蜻蜓约课官网 robots.txt
+# https://www.qtyk.com.cn
+
+User-agent: *
+Allow: /
+
+# 站点地图
+Sitemap: https://www.qtyk.com.cn/sitemap.xml
+
+# 禁止爬取的目录（如有）
+# Disallow: /admin/
+# Disallow: /private/
